@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "Deployment environment: production"
+echo "Deployment environment: staging"
